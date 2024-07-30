@@ -1,0 +1,44 @@
+128.1.6.5/12
+ip network 128.0.0.0
+ip gateway 255.240.0.0
+ip broadcast 128.15.255.255
+bit host 20
+bit network 12
+
+
+200.1.2.3/24
+ip network 200.1.2.0
+ip gateway 255.255.255.0
+ip broadcast 200.1.2.255
+bit host 8
+bit per la network 24
+
+
+192.192.1.1/22
+ip network 192.192.0.0
+ip gateway 255.255.252.0
+ip broadcast 192.192.3.255
+bit host 10
+bit per la network 22
+
+
+126.5.4.3/9
+ip network 126.0.0.0
+ip gateway 255.128.0.0
+ip broadcast 126.127.255.255
+bit host 23
+bit network 9
+
+200.1.9.8/24
+ip network 200.1.9.0
+ip gateway 255.255.255.0
+ip broadcast 200.1.9.255
+bit host 8
+bit network 24
+
+172.16.0.4/16
+ip network 172.16.0.0
+ip gateway 255.255.0.0
+ip broadcast 172.16.255.255
+bit host 16
+bit network 16
